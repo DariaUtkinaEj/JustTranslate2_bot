@@ -7,5 +7,5 @@
 Использую те же самые ресурсы, что и в боте-переводчике первой версии.
 
 Бота можно потыкать:
-1. @JustTranslate2_bot - ник в телеграме
-2. [JustTranslate2_bot](https://web.telegram.org/k/#@JustTranslate2_bot) -ссылка
+1. @JustTranslate2Bot - ник в телеграме
+2. [JustTranslate2_bot](https://web.telegram.org/k/#@JustTranslate2Bot) -ссылка
